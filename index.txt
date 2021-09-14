@@ -1,4 +1,4 @@
-analisa
+analisa [proses]
 perencanaan
 coding
 testing
