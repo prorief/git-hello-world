@@ -1,0 +1,4 @@
+analisa
+perencanaan
+coding
+testing
