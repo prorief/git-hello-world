@@ -1,4 +1,4 @@
 analisa [proses]
 perencanaan
 coding
-testing
+ujicoba [proses]
